@@ -1,0 +1,1 @@
+# raspberrypi-otomatik-bitki-sulama-ve-isikland-rma-sistemi
